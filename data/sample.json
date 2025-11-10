@@ -1,0 +1,22 @@
+[
+  {
+    "post_id": "12345",
+    "url": "https://www.facebook.com/samplepost",
+    "message": "Example post content here.",
+    "timestamp": 1710956549,
+    "comments_count": 1,
+    "reactions_count": 1,
+    "author": {
+      "id": "1111",
+      "name": "Example Page",
+      "url": "https://www.facebook.com/examplepage"
+    },
+    "image": {
+      "url": ""
+    },
+    "video": {
+      "url": ""
+    },
+    "attached_post_url": null
+  }
+]
